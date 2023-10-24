@@ -7,7 +7,9 @@ CSS
 🛠️ Usage
 1.Clone this repository:
 https://github.com/mystic7rj/Landing-Page
+
 2. Open in Vs code 
+
 3.Access the Application: Open your web browser and navigate to localhost:5500
 
 🎥 Demo Video

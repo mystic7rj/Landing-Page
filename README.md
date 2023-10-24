@@ -5,6 +5,7 @@ This is a Simple landing page , built using HTML, CSS. This README will guide yo
 HTML
 CSS
 🛠️ Usage
+
 1.Clone this repository:
 https://github.com/mystic7rj/Landing-Page
 
@@ -13,7 +14,9 @@ https://github.com/mystic7rj/Landing-Page
 3.Access the Application: Open your web browser and navigate to localhost:5500
 
 🎥 Demo Video
-https://github.com/mystic7rj/Landing-Page/assets/110520667/16b85f69-a47d-4941-91f2-8380acc22a5f
+
+https://github.com/mystic7rj/Landing-Page
+
 📝 License
 This project is licensed under the MIT License.
 

@@ -4,6 +4,8 @@ This is a Simple landing page , built using HTML, CSS. This README will guide yo
 🧰 Technologies Used
 HTML
 CSS
+JS
+
 🛠️ Usage
 
 1.Clone this repository:

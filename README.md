@@ -13,10 +13,6 @@ https://github.com/mystic7rj/Landing-Page
 
 3.Access the Application: Open your web browser and navigate to localhost:5500
 
-🎥 Demo Video
-
-https://github.com/mystic7rj/Landing-Page
-
 📝 License
 This project is licensed under the MIT License.
 
